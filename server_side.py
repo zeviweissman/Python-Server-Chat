@@ -5,7 +5,7 @@ import socket
 import select
 
 # login is a python page that we wrote it as a few functions that were gonna use later on
-from login import *
+from function import *
 
 # to start you need to enter the servers ip and port
 address = "?.?.?.?"
